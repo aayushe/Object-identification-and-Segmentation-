@@ -6,4 +6,4 @@ These are the following steps :
 2. Data Anotation
 3. Data Modeling
 4. Prediction
-5. Depoly
+5. Depolyment
